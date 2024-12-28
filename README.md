@@ -12,13 +12,13 @@ A mobile app for movie enthusiasts to browse, search, and manage their favorite 
 - Flutter, Dart
 
 ## Demo:
-![Home](FilmFav/f11/screenshot/Home.jpg)        ![Bookmark](FilmFav/f11/screenshot/bookmark.jpg)
-
-![Bookmark details](FilmFav/f11/screenshot/bookmarkdetails.jpg)       ![Loading home](FilmFav/f11/screenshot/loadingHome.jpg)
-
-![Movie Details](FilmFav/f11/screenshot/movieDetails.jpg)        ![Search details](FilmFav/f11/screenshot/searchDetails.jpg)
-
-![Search](FilmFav/f11/screenshot/search.jpg)
+- [Home](FilmFav/f11/screenshot/Home.jpg)        
+- [Bookmark](FilmFav/f11/screenshot/bookmark.jpg)
+- [Bookmark details](FilmFav/f11/screenshot/bookmarkdetails.jpg)       
+- [Loading home](FilmFav/f11/screenshot/loadingHome.jpg)
+- [Movie Details](FilmFav/f11/screenshot/movieDetails.jpg)       
+- [Search](FilmFav/f11/screenshot/search.jpg)
+- [Search details](FilmFav/f11/screenshot/searchDetails.jpg)
 
 ## Setup Instructions:
 1. Clone the repository.
