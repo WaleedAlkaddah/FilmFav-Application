@@ -11,7 +11,7 @@ A mobile app for movie enthusiasts to browse, search, and manage their favorite 
 ## Technologies:
 - Flutter, Dart
 
-## Demo:
+## Screenshots:
 - [Home](FilmFav/f11/screenshot/Home.jpg)        
 - [Bookmark](FilmFav/f11/screenshot/bookmark.jpg)
 - [Bookmark details](FilmFav/f11/screenshot/bookmarkdetails.jpg)       
